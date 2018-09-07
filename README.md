@@ -1,6 +1,7 @@
 Simple helloword project to test CI/CD with Jenkins
+It s FIS Project
+hello FIS
 
-It's a maven Project !!!!
 
 Test de scrutation de code source
 
